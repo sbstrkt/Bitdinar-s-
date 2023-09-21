@@ -2,8 +2,8 @@
   <img src="https://user-images.githubusercontent.com/70914145/111924854-b2914080-8aa6-11eb-8ef7-370ba504bcc6.png" width="450" height="450" />
 </p>
 
-# BitDinars 
-The official repository of the BitDinars crypto-currency, the alpha version of Bitdinar. 
+# Bitdinar(s) 
+The official repository of the Bitdinar(s) crypto-currency, the alpha version of Bitdinar. 
 
 ### Background
 This is the first Proof of Concept of BitDinars developed and deployed in 2016. We would like to include the community, and provide a version of the original software released. 
