@@ -3,17 +3,17 @@
 </p>
 
 # Bitdinar(s) 
-The official repository of the Bitdinar(s) crypto-currency, the alpha version of Bitdinar. 
+The official repository of the Bitdinar(s) crypto-currency, the pre-alpha iteration of the Bitdinar software stack. 
 
 ### Background
-This is the first Proof of Concept of BitDinars developed and deployed in 2016. We would like to include the community, and provide a version of the original software released. 
+This Proof of Concept was developed and deployed in 2016. We would like to include the community, and provide a version of the original software released. 
 
 The source code under the folder bitdinars-source and is available under this link: https://github.com/sbstrkt/BitDinars/tree/main/bitdinars-source
 
-The Windows binaries for the Bitdonars wallets are avialable here: https://github.com/sbstrkt/BitDinars/releases/tag/alpha-v0.0.1
+The Windows binaries for the Bitdinars wallets are avialable here: https://github.com/sbstrkt/BitDinars/releases/tag/alpha-v0.0.1
 
 ### Disclaimer
-This is an alpha version, and not production-redy version, to provide the source code and the binaries of the first BitDinars Proof of Concept. In no case the issuer of this software might be held accountable for any known or unknwon bugs. We are not liable for the loss of your coins. 
+This is a pre-alpha version, and not suitable for production. In no case the issuer of this software might be held accountable for any known or unknwon bugs. We are not liable for the loss of your coins. 
 
 Please feel free to use this repository under the conditions provisioned in the License. 
 
